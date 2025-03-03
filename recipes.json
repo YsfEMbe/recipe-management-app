@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "title": "Classic Spaghetti Carbonara",
+    "text": "A traditional Italian pasta dish..."
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+    "title": "Grilled Chicken Salad",
+    "text": "A healthy and refreshing salad..."
+  }
+]
